@@ -7,7 +7,7 @@
 
 nav{
     height: 80px;
-    background: rgb(46, 46, 248);
+    background: rgb(248, 166, 244);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,7 +33,7 @@ nav a:hover{
 }
 
 .hero {
-    background: #fefeff;
+    background: #fae1fa;
 }
 .hero-contatiner{
     display: grid;
@@ -68,7 +68,7 @@ button {
     padding: 1rem ;
     font-size: 1rem;
     border: none;
-    color: #f4f5fa;
+    color: #ffcff9;
     background: #000;
     cursor: pointer;
     border-radius: 50px;
@@ -79,7 +79,7 @@ button:hover {
     color: #000;
 }
 
-.colum-right {
+.colum-left{
     display: flex;
     justify-content: center;
     align-items: center;
